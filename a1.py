@@ -1,2 +1,2 @@
-c=10
-print(c)
+ca=10
+print(ca)
