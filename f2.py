@@ -1,0 +1,2 @@
+name=sound
+print(name)
